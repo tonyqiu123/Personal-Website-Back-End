@@ -1,7 +1,7 @@
 const path = require('path')
 const express = require('express')
 const dotenv = require('dotenv').config()
-const port = 3001
+const port = proccess.env.PORT || 3001
 const connectDB = require('./config/db')
 const cors = require('cors')
 
