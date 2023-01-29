@@ -4,6 +4,6 @@
 <p>Step 2. Open terminal and enter "npm i"</p>
 <p>Step 3. In terminal, enter "npm start"</p>
 
-<p>Done! You are running the backend I built!</p>
+<p>Done! You are running the api I built!</p>
 
 
