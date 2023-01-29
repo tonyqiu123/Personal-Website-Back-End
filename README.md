@@ -4,4 +4,6 @@
 <p>Step 2. Open terminal and enter "npm i"</p>
 <p>Step 3. In terminal, enter "npm start"</p>
 
-Live version deployed with Railway.app!
+<p>Done! You are running the api I built!</p>
+
+
