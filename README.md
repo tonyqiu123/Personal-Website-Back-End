@@ -1,2 +1,7 @@
-# Personal-Website-Back-End
-URL: <a href="https://personal-website-back-end-production.up.railway.app/api/blogs">https://personal-website-back-end-production.up.railway.app/api/blogs</a>
+<h1>Steps</h1>
+
+<p> Step 1. Clone this repo</p>
+<p>Step 2. Open terminal and enter "npm i"</p>
+<p>Step 3. In terminal, enter "npm start"</p>
+
+Live version deployed with Railway.app!
