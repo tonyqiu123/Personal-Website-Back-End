@@ -1,4 +1,4 @@
-<h1>Steps</h1>
+<h1>Steps:h1>
 
 <p> Step 1. Clone this repo</p>
 <p>Step 2. Open terminal and enter "npm i"</p>
